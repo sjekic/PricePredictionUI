@@ -25,7 +25,7 @@ st.text("In order to find the optimal value of the k parameter we use the elbow 
 st.image("C:/Users/Korisnik/Downloads/WhatsApp Image 2025-05-20 at 23.36.16 (2).jpeg")
 st.text("PCA has been used because it is a popular tool when it comes to reducing  the high dimensional data into lower dimensional data while maximising the variance of the data. So, the model tell us where the direction where the data points vary the most. In the figure above we observe clear separation among the clusters. We observe that clusters 0, 1, 2 and 4  are more compacted together, which is positive. While the cluster 3, red, is more spread out, suggesting the potential presence of outliers. We also identify a potential overlap between clusters 1 and 2, orange and green respectively suggesting that they might share some features. ")
 
-st.image("C:/Users/Korisnik/Downloads/WhatsApp Image 2025-05-20 at 23.36.16.jpeg")
+st.image(".mlf_app/pages/WhatsApp Image 2025-05-20 at 23.36.16.jpeg")
 st.text("tSNE, on the other hand, is a non-linear method for visualising the higher-dimensional data into lower dimensions which focuses on pairwise similarities. For the tSNE we decided to project our clusters against the price, to analyze the differences in the price based on the cluster. In the diagram above, we observe that higher price points are clustered in the middle part of the tSNE. On the other hand, other clusters seem to have similar price ranges. Therefore, we can conclude that the model is able to indirectly capture pricing differences among clusters.  ")
 
 st.image("C:/Users/Korisnik/Downloads/WhatsApp Image 2025-05-20 at 23.36.16 (1).jpeg")
