@@ -8,7 +8,7 @@ st.markdown(
 st.image(".mlf_app/pages/download.png")
 st.text("Some of the features we recognized as crucial were the CPU (processor), power, number of cores in the CPU, the capacity of the hard disk and many more which is why we decided to ask the user for this input when determining the price and nearest neighbors.")
 
-st.image("download (2).png")
+st.image(".mlf_app/pages/download (2).png")
 st.text("Some of the features had too many options, like operating systems. This is why we decided to group them into 5 categories: MacOS, Windows, Linux, DOS and Other.")
 
 st.text("Not all of the features were numerical, hence we had to perform encoding. For most we chose one-hot encoding, but some categorical features had to many options. Most of them were brands of computers, types of graphics cards, RAM and hard disks. For them, we use label encoding")
