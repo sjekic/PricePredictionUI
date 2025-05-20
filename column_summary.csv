@@ -1,0 +1,132 @@
+﻿Column,Data Type,Unique Values,Mode,Non-null (%),Common Values,Min,Max,Mean
+procesador_frecuencia_turbo_mÃ¡x__GHz,float64,43,5,76.93%,"[5.0, 4.4, 4.6]",1.9,6,4.662460025
+medidas_profundidad_cm,float64,52,25,78.52%,"[25.0, 22.0, 23.0]",3,55,24.70556337
+sonido_nÃºmero_altavoces,float64,4,2,35.96%,"[2.0, 4.0, 6.0]",2,8,2.470175439
+medidas_peso_kg,float64,284,1.7,61.87%,"[1.7, 1.6, 1.5]",0.2,24,2.451791996
+disco_duro_capacidad_memoria_ssd_GB,float64,22,1000,82.37%,"[1000.0, 512.0, 256.0]",8,8000,766.9102049
+procesador_nÃºmero_hilos_ejecuciÃ³n,float64,13,12,38.61%,"[12.0, 16.0, 24.0]",2,32,16.48856209
+procesador_tdp_W,float64,33,65,35.14%,"[65.0, 125.0, 15.0]",2,280,78.60951526
+procesador_nÃºmero_nÃºcleos_procesador_cores,float64,14,8,80.84%,"[8.0, 6.0, 10.0]",1,32,10.22259071
+medidas_ancho_cm,float64,41,35,78.58%,"[35.0, 36.0, 31.0]",3,92,27.2996187
+ram_memoria_ram_GB,float64,17,16,83.57%,"[16.0, 32.0, 8.0]",0,256,19.92451406
+otras_caracterÃ­sticas_fecha_lanzamiento,Int64,13,2023,46.49%,"[2023, 2024, 2022]",2013,2025,2022.665536
+pantalla_tamaÃ±o_pantalla_pulgadas,float64,29,15.6,49.46%,"[15.6, 14.0, 16.0]",10.1,18,15.20566008
+ofertas_count,int64,97,1,100.00%,"[1, 2, 3]",1,451,5.188140672
+pantalla_diagonal_pantalla_cm,float64,14,39,49.44%,"[39.0, 35.0, 40.0]",25,45,38.00095694
+alimentaciÃ³n_vatios_hora_Wh,float64,86,41,45.18%,"[41.0, 90.0, 42.0]",27,100,60.52885515
+ram_frecuencia_memoria_MHz,float64,29,3200,35.56%,"[3200.0, 4800.0, 5600.0]",1600,8533,4146.749002
+disco_duro_nÃºmero_discos_duros_instalados,float64,4,1,69.17%,"[1.0, 0.0, 2.0]",0,3,0.989284086
+alimentaciÃ³n_autonomÃ­a_baterÃ­a_h,float64,64,15,20.72%,"[15.0, 10.0, 7.5]",4,29.5,11.24056317
+pantalla_luminosidad_cd_m2,float64,17,250,30.25%,"[250.0, 400.0, 300.0]",200,1000,372.0828989
+procesador_frecuencia_reloj,float64,76,0.0025,68.00%,"[0.0025, 0.9, 0.0021000000000000003]",0.001,4.3,1.095988844
+procesador_cachÃ©_MB,float64,31,12,76.83%,"[12.0, 24.0, 16.0]",1,128,20.09277504
+equip_Force Touch Trackpad,int64,2,0,100.00%,"[0, 1]",0,1,0.024128686
+equip_ScreenPad,int64,2,0,100.00%,"[0, 1]",0,1,0.000157704
+equip_Touch Bar,int64,2,0,100.00%,"[0, 1]",0,1,0.000630815
+equip_Touch ID,int64,2,0,100.00%,"[0, 1]",0,1,0.02428639
+equip_Touchpad multitÃ¡ctil,int64,2,0,100.00%,"[0, 1]",0,1,0.020816906
+equip_TrackPoint / TouchStick / Pointing Stick,int64,2,0,100.00%,"[0, 1]",0,1,0.001103927
+equip_USB-C,int64,2,0,100.00%,"[0, 1]",0,1,0.43415865
+equip_altavoces estÃ©reo,int64,2,0,100.00%,"[0, 1]",0,1,0.376754455
+equip_altavoces estÃ©reo JBL,int64,2,0,100.00%,"[0, 1]",0,1,0.000315408
+equip_altavoz integrado,int64,2,0,100.00%,"[0, 1]",0,1,0.001892446
+equip_con iluminaciÃ³n,int64,2,0,100.00%,"[0, 1]",0,1,0.000315408
+equip_conector de seguridad Kensington,int64,2,0,100.00%,"[0, 1]",0,1,0.023497871
+equip_disco duro SSD,int64,2,0,100.00%,"[0, 1]",0,1,0.340640278
+equip_lector de tarjetas,int64,2,0,100.00%,"[0, 1]",0,1,0.275508595
+equip_lector de tarjetas inteligentes,int64,2,0,100.00%,"[0, 1]",0,1,0.000157704
+equip_micrÃ³fono integrado,int64,2,0,100.00%,"[0, 1]",0,1,0.046364927
+equip_refrigeraciÃ³n lÃ­quida,int64,2,0,100.00%,"[0, 1]",0,1,0.014666456
+equip_webcam,int64,2,0,100.00%,"[0, 1]",0,1,0.471219051
+procesador_frecuencia,float64,73,2.5,76.34%,"[2.5, 2.1, 0.9]",0.0011,4.7,2.232043634
+Bluetooth,int64,2,1,100.00%,"[1, 0]",0,1,0.67118751
+Ethernet,int64,2,0,100.00%,"[0, 1]",0,1,0.311622772
+LAN,int64,2,0,100.00%,"[0, 1]",0,1,0.177416811
+NFC,int64,2,0,100.00%,"[0, 1]",0,1,0.001261631
+infrarrojos,int64,2,0,100.00%,"[0, 1]",0,1,0.000315408
+wifi,int64,2,1,100.00%,"[1, 0]",0,1,0.841507649
+wifi Direct,int64,2,0,100.00%,"[0, 1]",0,1,0.000315408
+os_DOS,bool,2,FALSE,100.00%,"[False, True]",,,
+os_No OS,bool,2,FALSE,100.00%,"[False, True]",,,
+os_Other OS,bool,2,FALSE,100.00%,"[False, True]",,,
+os_Windows,bool,2,TRUE,100.00%,"[True, False]",,,
+os_macOS,bool,2,FALSE,100.00%,"[False, True]",,,
+altura_mm,float64,74,20,78.44%,"[20.0, 18.0, 19.0]",0,560,100.7794532
+company_name_label,int64,100,44,100.00%,"[44, 55, 1]",0,115,46.5349314
+grÃ¡fica_tarjeta_grÃ¡fica_label,int64,175,100,100.00%,"[100, 87, 88]",1,193,97.99826526
+pantalla_tecnologÃ­a_pantalla_label,int64,23,11,100.00%,"[11, 8, 21]",0,23,11.28654786
+procesador_name_label,int64,49,48,100.00%,"[48, 49, 62]",0,70,42.82967986
+procesador_nivel_cachÃ©_L2,bool,2,FALSE,100.00%,"[False, True]",,,
+procesador_nivel_cachÃ©_L3,bool,2,FALSE,100.00%,"[False, True]",,,
+procesador_nivel_cachÃ©_nan,bool,2,TRUE,100.00%,"[True, False]",,,
+tipo_producto_Barebone,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_Chromebook,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_Kit ampliaciÃ³n PC,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_Mini PC,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_Netbook,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PC completo,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PC de oficina,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PC gaming,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PC multimedia,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PortÃ¡til 3D,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PortÃ¡til convertible,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PortÃ¡til gaming,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PortÃ¡til multimedia,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_PortÃ¡til profesional,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_Thin Client,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_Ultrabook,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_Workstation,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_producto_nan,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_PCIe SSD,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_SATA,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_SSD,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_disco duro HDD,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_disco duro M.2 SSD,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_disco duro SSD,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_disco hÃ­brido (HHD),bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_memoria flash,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_sin disco duro,bool,2,FALSE,100.00%,"[False, True]",,,
+disco_duro_tipo_disco_duro_nan,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_DVI,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_DisplayPort,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_HDMI,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_HDMI 1.4,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_HDMI 2.0,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_HDMI 2.1,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_Micro HDMI,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_Mini DisplayPort,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_Mini HDMI,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_Thunderbolt 3,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_Thunderbolt 4,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_USB-C,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_VGA,bool,2,FALSE,100.00%,"[False, True]",,,
+grÃ¡fica_salida_vÃ­deo_nan,bool,2,TRUE,100.00%,"[True, False]",,,
+ram_tipo_ram_DDR3,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_DDR3L,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_DDR4,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_DDR4L,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_DDR5,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_LPDDR3,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_LPDDR4,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_LPDDR4X,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_LPDDR5,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_LPDDR5X,bool,2,FALSE,100.00%,"[False, True]",,,
+ram_tipo_ram_nan,bool,2,FALSE,100.00%,"[False, True]",,,
+almacenamiento_lector_Ã³ptico_grabadora DVD,bool,2,FALSE,100.00%,"[False, True]",,,
+almacenamiento_lector_Ã³ptico_lector DVD,bool,2,FALSE,100.00%,"[False, True]",,,
+almacenamiento_lector_Ã³ptico_ninguno,bool,2,FALSE,100.00%,"[False, True]",,,
+almacenamiento_lector_Ã³ptico_nan,bool,2,TRUE,100.00%,"[True, False]",,,
+tipo_Desktop,bool,2,TRUE,100.00%,"[True, False]",,,
+tipo_Laptop,bool,2,FALSE,100.00%,"[False, True]",,,
+tipo_nan,bool,1,FALSE,100.00%,[False],,,
+color_azul,bool,2,FALSE,100.00%,"[False, True]",,,
+color_blanco,bool,2,FALSE,100.00%,"[False, True]",,,
+color_bronce,bool,2,FALSE,100.00%,"[False, True]",,,
+color_dorado,bool,2,FALSE,100.00%,"[False, True]",,,
+color_gris,bool,2,FALSE,100.00%,"[False, True]",,,
+color_negro,bool,2,FALSE,100.00%,"[False, True]",,,
+color_plateado,bool,2,FALSE,100.00%,"[False, True]",,,
+color_rojo,bool,2,FALSE,100.00%,"[False, True]",,,
+color_rosa,bool,2,FALSE,100.00%,"[False, True]",,,
+color_verde,bool,2,FALSE,100.00%,"[False, True]",,,
+color_nan,bool,2,FALSE,100.00%,"[False, True]",,,
