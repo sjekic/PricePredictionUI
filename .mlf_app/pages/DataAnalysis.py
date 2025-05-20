@@ -22,7 +22,7 @@ st.image("C:/Users/Korisnik/Downloads/WhatsApp Image 2025-05-20 at 21.32.57.jpeg
 
 st.text("In order to find the optimal value of the k parameter we use the elbow method, as shown in the image above.")
 
-st.image("C:/Users/Korisnik/Downloads/WhatsApp Image 2025-05-20 at 23.36.16 (2).jpeg")
+st.image(".mlf_app/pages/WhatsApp Image 2025-05-20 at 23.36.16 (2).jpeg")
 st.text("PCA has been used because it is a popular tool when it comes to reducing  the high dimensional data into lower dimensional data while maximising the variance of the data. So, the model tell us where the direction where the data points vary the most. In the figure above we observe clear separation among the clusters. We observe that clusters 0, 1, 2 and 4  are more compacted together, which is positive. While the cluster 3, red, is more spread out, suggesting the potential presence of outliers. We also identify a potential overlap between clusters 1 and 2, orange and green respectively suggesting that they might share some features. ")
 
 st.image(".mlf_app/pages/WhatsApp Image 2025-05-20 at 23.36.16.jpeg")
