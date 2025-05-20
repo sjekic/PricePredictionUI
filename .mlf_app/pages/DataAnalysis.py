@@ -5,7 +5,7 @@ st.header("Exploratory Data Analysis")
 st.markdown(
     "This page presents our findings during exploratory data analysis (EDA)."
 )
-st.image("PricePredictionUI/.mlf_app/pages/download.png")
+st.image(".mlf_app/pages/download.png")
 st.text("Some of the features we recognized as crucial were the CPU (processor), power, number of cores in the CPU, the capacity of the hard disk and many more which is why we decided to ask the user for this input when determining the price and nearest neighbors.")
 
 st.image("download (2).png")
